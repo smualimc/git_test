@@ -1,1 +1,2 @@
 "Hello Odin!"
+"Second line to test commit message via VS"
